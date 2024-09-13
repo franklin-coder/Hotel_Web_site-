@@ -1,0 +1,14 @@
+.cuerpo{
+
+    background-color: rgb(41, 46, 41);
+}
+
+#resort{
+
+    display: none;
+}
+
+#hideResort{
+
+    display: none;
+}

@@ -1,0 +1,30 @@
+#booking-confirmation{
+    color: rgb(51, 7, 244);
+    font-weight: 600;
+}
+
+
+#price-confirmation{
+    color: green;
+    font-weight: bolder;
+}
+
+#welcome{
+    color: green;
+    font-weight: bolder;
+}
+
+#booking-info{
+    color: rgb(51, 7, 244);
+    font-weight: 600;
+}
+
+
+#price-info{
+    color: green;
+    font-weight: bolder;
+}
+
+.modal-content{
+    color: rgb(117, 177, 225);
+}

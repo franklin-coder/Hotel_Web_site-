@@ -1,0 +1,218 @@
+#columnaseccion_1_lab9{
+    background-color: #f1f8ff;
+}
+
+
+
+#columna_2_seccion_1_lab9{
+    
+    background-image: url('./portada_santamarta_plus.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+#fila_1_seccion_1_lab9{
+
+    height: 100vh;
+    display: flex;
+
+}
+
+#texto_columnaseccion_1_lab9{
+
+  margin-top:30vh;
+  justify-content: center;
+}
+
+
+
+/* este es el codigo de los botones login y logout ademas del formulario y de los mnesajes de error de la validacion  */
+
+/* para el nombre */
+
+.mensaje-error {
+    display: none;
+    color: red;
+  }
+  
+  .mensaje-exito {
+    display: none;
+    color: green;
+
+  }
+  
+  .input-valido {
+    border: 2px solid green;
+  }
+  
+  .input-invalido {
+    border: 2px solid red;
+  }
+/* para el nombre */
+
+/* para el apellido */
+  .mensaje-error-apellido {
+    display: none;
+    color: red;
+  }
+  .mensaje-exito-apellido {
+    display: none;
+    color: green;
+  }
+
+/* para el apellido */
+
+/* para la edad */
+
+  .mensaje-error-edad {
+    display: none;
+    color: red;
+  }
+  
+  .mensaje-exito-edad {
+    display: none;
+    color: green;
+  }
+/* para la edad */
+
+/* para la email */
+  .mensaje-error-email {
+    display: none;
+    color: red;
+  }
+  
+  .mensaje-exito-email {
+    display: none;
+    color: green;
+  }
+  /* para la email */
+  .mensaje-error-postal {
+    display: none;
+    color: red;
+  }
+  
+  .mensaje-exito-postal {
+    display: none;
+    color: green;
+  }
+
+
+
+  
+  .mensaje-error-telefono{
+    display: none;
+    color: red;
+  }
+  
+  .mensaje-exito-edad {
+    display: none;
+    color: green;
+  }
+
+
+  .carddeusuario{display: none;}
+  
+
+  #foto{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;    
+  }
+
+
+  .login{
+    margin-right: auto;
+  }
+
+  #login{
+
+    background-color: rgb(21, 150, 21);
+    
+  }
+
+  #logout{
+
+    background-color: rgb(150, 21, 21);
+    
+  }
+  /* este es el final del codigo de los botones login y logout ademas del formulario y de los mnesajes de error de la validacion  */
+
+
+/* este es el ftitulo de mi seccion hero de mi primera seccion  */
+  #hero_title{
+
+    margin-top: 40vh;
+    color: white;
+    
+  }
+/* este es el ftitulo de mi seccion hero de mi primera seccion  */
+  
+
+  #separador{
+    height: 1rem;
+    color: rgb(3, 75, 142);
+    background-color: #47a1fb;
+    margin-top: 2rem;
+  }
+
+
+/*titulo de la modal del usuario*/
+#columnaseccion_1_lab9
+{
+  background-color: #47a1fb;
+  font-size: 1rem;
+  color: azure;
+  font-weight: bolder;
+}
+
+/*background fondo datapicker*/
+.ui-datepicker {
+  background-color: #d8e3ef;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* este es el inicio de la tercera seccion */
+  #seccion3{
+    background-color: rgb(108, 108, 232)violet;
+  }
+
+  #columnaseccion_3_lab9{
+    background-color: rgb(108, 108, 232)violet;
+  }
+
+
+ /* este es el inicio de la footer */
+
+  #pie{
+    height: 3rem;
+    color: #f1f8ff;
+    text-align: center;
+    padding-top: 1rem;
+    font-weight: bolder;
+  }
+
+   /* este es el final  de la footer */
+
+
+   /* este es el inicio offcanvas */
+ 
